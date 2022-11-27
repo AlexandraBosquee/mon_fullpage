@@ -1,0 +1,88 @@
+#callbacksDiv p{
+    font-size:1rem;
+  }
+  #callbacksDiv h4{
+      font-size: 1rem;
+      font-weight: bold;
+      color: white;
+      text-decoration: underline;
+  }
+
+  .slide, .section {
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .s-1 {
+    background-image: url(/img/galaxy1.JPG) ;
+  }
+
+  .s-2 {
+    background-image: url(/img/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg) ;
+  }
+
+  .s-3 {
+    background-image: url(/img/galaxy2.JPG) ;
+  }
+
+  .s-4 {
+    background-image: url(/img/Capture.JPG) ;
+  }
+
+  #section0 {
+    background-image: url(/img/sergei-a--heLWtuAN3c-unsplash.jpg);
+  }
+
+  #section3 {
+    background-image: url(/img/george-ivanov-K7HvIvsPy8w-unsplash.jpg);
+  }
+
+  .s-5 {
+    background-image: url(/img/nate-foong-r2MJS5Ool8c-unsplash.jpg) ;
+  }
+  .s-6 {
+    background-image: url(/img/juli-kosolapova-Us_dv71f1bc-unsplash.jpg) ;
+  }
+  .s-7 {
+    background-image: url(/img/wolfgang-hasselmann-pVr6wvUneMk-unsplash.jpg) ;
+  }
+
+
+  #lien1 , #lien2, #lien3 ,#lien4 {
+    color: black;
+    padding: 10px 20px ;
+    background-color: white;
+    height: 100%;
+    border-radius: 12px;
+
+  }
+
+  #lien1:hover , #lien2:hover , #lien3:hover ,#lien4:hover {
+    font-weight: bold;
+    padding: 12px 22px;    
+  }
+
+
+
+
+  .fp-overflow p {
+    padding: 10px 0;
+  }
+
+  .fp-overflow {
+   overflow-y: visible !important;
+  }
+
+  .fp-overflow  h1 {
+    margin: 20px  0;
+  }
+
+
+  #section0 a {
+    font-size: 60%;
+  }
+
+  #section0 h1 {
+    font-size: 450%;
+    margin: 0;
+  }
